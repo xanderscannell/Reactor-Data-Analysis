@@ -1,0 +1,5 @@
+# Ignore all files inside the Exported Data folder
+Exported Data/*
+
+# But do NOT ignore the .gitkeep file
+!Exported Data/.gitkeep
